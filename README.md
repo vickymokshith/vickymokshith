@@ -4,7 +4,7 @@ Welcome to my public portfolio showcasing practical examples of my expertise in 
 
 ## 🔍 About Me
 
-- **Role:** Business Analyst / Data Analyst (STEM OPT)
+- **Role:** Business Analyst / Data Analyst
 - **Experience:** 3+ years across banking, compliance and energy sectors
 - **Skills:** SQL, Python, Airflow, NiFi, SSIS, Power BI, Tableau, Excel VBA, Snowflake, PostgreSQL, Oracle, SAP
 - **Strengths:** Building end‑to‑end data pipelines, producing data‑driven dashboards, authoring BRD/FRD documentation, migrating multi‑terabyte data workloads, and collaborating with cross‑functional teams
